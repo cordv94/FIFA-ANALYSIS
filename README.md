@@ -3,14 +3,17 @@
 It is a well known fact that sports analytics are very popular. The dataset fifa.csv contains
 information about soccer (football) players obtained from FIFA19 information. It would be
 interesting if the ratings that are used could be analyzed as a simple set of factors.
-a) Identify the columns that are the best candidates for analysis as factors.
-b) Conduct a factor analysis using these columns (if you get an error reduce the number of
-factors in the function, until the error disappears).
-c) Justify your use of the rotation method. What does it tell you ?
-d) Are there any correlations between the factors?
-e) Split the data set into two parts (Left footed players and right footed players). Conduct a
-factor analysis and explain if you see any differences between right and left footed
-players . Note you do not need to draw this one.
+
+  a) Identify the columns that are the best candidates for analysis as factors.
+
+  b) Conduct a factor analysis using these columns (if you get an error reduce the number of
+  factors in the function, until the error disappears).
+
+  c) Justify your use of the rotation method. What does it tell you ?
+  d) Are there any correlations between the factors?
+  e) Split the data set into two parts (Left footed players and right footed players). Conduct a
+  factor analysis and explain if you see any differences between right and left footed
+  players . Note you do not need to draw this one.
 
 
 The FIFA Director of Analytics isn’t completely convinced with your prior analysis. The belief is
